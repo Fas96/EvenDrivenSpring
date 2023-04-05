@@ -1,0 +1,23 @@
+2023-04-05 22:12:39 [main] INFO  c.m.c.TwitterKafkaServiceApplication - Starting TwitterKafkaServiceApplication using Java 17.0.5 with PID 76400 (/Users/fasbhim/Documents/Personal/2023/microservices-start/twitter-to-kafka-service/target/classes started by fasbhim in /Users/fasbhim/Documents/Personal/2023/microservices-start)
+2023-04-05 22:12:39 [main] INFO  c.m.c.TwitterKafkaServiceApplication - No active profile set, falling back to 1 default profile: "default"
+2023-04-05 22:12:39 [main] INFO  c.m.c.TwitterKafkaServiceApplication - Started TwitterKafkaServiceApplication in 0.298 seconds (process running for 0.641)
+2023-04-05 22:13:07 [main] INFO  c.m.c.TwitterKafkaServiceApplication - Starting TwitterKafkaServiceApplication using Java 17.0.5 with PID 76485 (/Users/fasbhim/Documents/Personal/2023/microservices-start/twitter-to-kafka-service/target/classes started by fasbhim in /Users/fasbhim/Documents/Personal/2023/microservices-start)
+2023-04-05 22:13:07 [main] INFO  c.m.c.TwitterKafkaServiceApplication - No active profile set, falling back to 1 default profile: "default"
+2023-04-05 22:13:08 [main] INFO  c.m.c.TwitterKafkaServiceApplication - Started TwitterKafkaServiceApplication in 0.285 seconds (process running for 0.595)
+2023-04-05 22:13:15 [main] INFO  c.m.c.TwitterKafkaServiceApplication - Starting TwitterKafkaServiceApplication using Java 17.0.5 with PID 76510 (/Users/fasbhim/Documents/Personal/2023/microservices-start/twitter-to-kafka-service/target/classes started by fasbhim in /Users/fasbhim/Documents/Personal/2023/microservices-start)
+2023-04-05 22:13:15 [main] INFO  c.m.c.TwitterKafkaServiceApplication - No active profile set, falling back to 1 default profile: "default"
+2023-04-05 22:13:15 [main] INFO  c.m.c.TwitterKafkaServiceApplication - Started TwitterKafkaServiceApplication in 0.285 seconds (process running for 0.607)
+2023-04-05 22:16:59 [main] INFO  c.m.c.TwitterKafkaServiceApplication - Starting TwitterKafkaServiceApplication using Java 17.0.5 with PID 77283 (/Users/fasbhim/Documents/Personal/2023/microservices-start/twitter-to-kafka-service/target/classes started by fasbhim in /Users/fasbhim/Documents/Personal/2023/microservices-start)
+2023-04-05 22:16:59 [main] INFO  c.m.c.TwitterKafkaServiceApplication - No active profile set, falling back to 1 default profile: "default"
+2023-04-05 22:16:59 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2023-04-05 22:16:59 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2023-04-05 22:16:59 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2023-04-05 22:16:59 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.7]
+2023-04-05 22:16:59 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-04-05 22:16:59 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 320 ms
+2023-04-05 22:16:59 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2023-04-05 22:16:59 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2023-04-05 22:16:59 [main] INFO  c.m.c.TwitterKafkaServiceApplication - Started TwitterKafkaServiceApplication in 0.632 seconds (process running for 1.069)
+2023-04-05 22:17:09 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-04-05 22:17:09 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2023-04-05 22:17:09 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 2 ms
